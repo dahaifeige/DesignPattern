@@ -2,6 +2,7 @@
 #include <iostream>
 #include <list>
 using namespace std;
+
 // 观察者模式: 定义了对象之间的一对多依赖，当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新。
 // 原则：
 // 1. 为了交互对象之间的松耦合而努力；
